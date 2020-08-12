@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2035D2C4-1EE7-4706-832B-F9AE5892F11F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E958FAA-6275-45C7-90C0-83ADB60963F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFatara_M_Storing_Default_Values_Exercise/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "723A97DD-5E0E-4519-942B-1D85569692E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFatara_M_Storing_Default_Values_Exercise/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8872F64D-2268-45D4-B091-9944F42BD2BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFatara_M_Storing_Default_Values_Exercise/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC0E0A6C-FDBE-40B5-8555-48A45C84C920"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFatara_M_Storing_Default_Values_Exercise/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BC0E0A6C-FDBE-40B5-8555-48A45C84C920 - 3cc763ee94a60839"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_Storing_Default_Values_Exercise.ViewController.ViewController.mySwitch.getter : Swift.Optional&lt;__C.UISwitch&gt;"
+                  moduleName = "MyFatara_M_Storing_Default_Values_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_Storing_Default_Values_Exercise/MyFatara_M_Storing_Default_Values_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "BC0E0A6C-FDBE-40B5-8555-48A45C84C920 - 3cc763ee94a60839"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_Storing_Default_Values_Exercise.ViewController.ViewController.mySwitch.setter : Swift.Optional&lt;__C.UISwitch&gt;"
+                  moduleName = "MyFatara_M_Storing_Default_Values_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_Storing_Default_Values_Exercise/MyFatara_M_Storing_Default_Values_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "BC0E0A6C-FDBE-40B5-8555-48A45C84C920 - 90e47c841d9de330"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_Storing_Default_Values_Exercise.ViewController.ViewController.mySwitch.modify : Swift.Optional&lt;__C.UISwitch&gt;"
+                  moduleName = "MyFatara_M_Storing_Default_Values_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_Storing_Default_Values_Exercise/MyFatara_M_Storing_Default_Values_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "BC0E0A6C-FDBE-40B5-8555-48A45C84C920 - bdeec109fb5ef8a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_Storing_Default_Values_Exercise.ViewController.ViewController.mySwitch.modify : Swift.Optional&lt;__C.UISwitch&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MyFatara_M_Storing_Default_Values_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_Storing_Default_Values_Exercise/MyFatara_M_Storing_Default_Values_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "BC0E0A6C-FDBE-40B5-8555-48A45C84C920 - 838b1e55d4d14728"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_Storing_Default_Values_Exercise.ViewController.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MyFatara_M_Storing_Default_Values_Exercise.ViewController.ViewController"
+                  moduleName = "MyFatara_M_Storing_Default_Values_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_Storing_Default_Values_Exercise/MyFatara_M_Storing_Default_Values_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "375">
+               </Location>
+               <Location
+                  uuid = "BC0E0A6C-FDBE-40B5-8555-48A45C84C920 - b60f4d4aff15c8fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_Storing_Default_Values_Exercise.ViewController.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyFatara_M_Storing_Default_Values_Exercise.ViewController.ViewController&gt;"
+                  moduleName = "MyFatara_M_Storing_Default_Values_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_Storing_Default_Values_Exercise/MyFatara_M_Storing_Default_Values_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "301">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
